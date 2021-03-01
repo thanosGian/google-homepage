@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+}
+.search {
+    margin: auto;
+    width: 20%;
+}
+
+.search #seachBar {
+    width: 100%;
+}
+.footer{
+    width: 100vw;
+    display: block;
+    overflow: hidden;
+    padding: 70px 0;
+    box-sizing: border-box;
+    background-color:#f2f2f2;
+}
+
+.header .horizontal {
+    float: right;
+}
+
+.inner_footer{
+    display: block;
+    margin: 0 auto;
+}
+
+.left-corner {
+    float:left;
+}
+
+.right-corner {
+    float:right;
+}
